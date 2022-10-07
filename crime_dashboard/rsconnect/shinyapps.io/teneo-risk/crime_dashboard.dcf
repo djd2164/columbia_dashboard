@@ -1,0 +1,13 @@
+name: crime_dashboard
+title: crime_dashboard
+username:
+account: teneo-risk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7246411
+bundleId: 6380798
+url: https://teneo-risk.shinyapps.io/crime_dashboard/
+when: 1665172174.08554
+lastSyncTime: 1665172174.08554
+asMultiple: FALSE
+asStatic: FALSE
